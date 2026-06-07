@@ -1,0 +1,11 @@
+[package]
+name = "crdt-core"
+version = "0.1.0"
+edition = "2021"
+description = "Conflict-free replicated data types: G-Counter, PN-Counter, G-Set, OR-Set, LWW-Register"
+license = "MIT"
+repository = "https://github.com/SuperInstance/crdt-core"
+keywords = ["crdt", "distributed", "replicated", "counter", "set"]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
